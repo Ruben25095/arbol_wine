@@ -27,6 +27,12 @@ Intalamos las librerias necesarias para la practica
 
 <img width="582" height="64" alt="image" src="https://github.com/user-attachments/assets/e13849aa-d59f-48de-9b91-0869ad54be2d" />
 
+### Dividir los datos en entrenamiento y prueba
+<ul>
+<li> 80% de los datos se usan para entrenar.</li>
+<li> 20% se reservan para probar la precisión.</li>
+
+</ul>
 
 
 
