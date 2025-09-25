@@ -15,6 +15,15 @@ Intalamos las librerias necesarias para la practica
 </ul>
 <img width="675" height="142" alt="image" src="https://github.com/user-attachments/assets/b6c11f76-3f9d-4792-8eaa-b3e47f2f1982" />
 
+### Cargar el dataset del vino:
+<ul>
+<li> wine = load_wine() </li>
+<li> x, y = wine.data, wine.target </li>
+</ul>
+### Donde:
+ "x" contiene las características químicas del vino (ej. alcohol, ácido málico, flavonoides, etc.) 
+"y" contiene la clase del vino (0, 1 o 2, que corresponden a 3 tipos de vino). 
+
 
 
 
