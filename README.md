@@ -33,6 +33,14 @@ Intalamos las librerias necesarias para la practica
 <li> 20% se reservan para probar la precisión.</li>
 
 </ul>
+<img width="784" height="57" alt="image" src="https://github.com/user-attachments/assets/19a6416d-f1af-4021-9122-4c275ea08baf" />
+
+### Crear y entrenar el clasificador
+<ul> <li></li> max_depth=2 limita la profundidad del árbol para que las reglas sean más fáciles de interpretar. </li> </ul>
+
+<img width="536" height="61" alt="image" src="https://github.com/user-attachments/assets/88ce8626-4b25-4f0a-98ad-3a2d0c33c36b" />
+
+
 
 
 
