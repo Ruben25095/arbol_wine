@@ -20,6 +20,7 @@ Intalamos las librerias necesarias para la practica
 <li> wine = load_wine() </li>
 <li> x, y = wine.data, wine.target </li>
 </ul>
+
 ### Donde:
  "x" contiene las características químicas del vino (ej. alcohol, ácido málico, flavonoides, etc.) 
 "y" contiene la clase del vino (0, 1 o 2, que corresponden a 3 tipos de vino). 
