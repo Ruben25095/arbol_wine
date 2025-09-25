@@ -25,6 +25,11 @@ Intalamos las librerias necesarias para la practica
  "x" contiene las características químicas del vino (ej. alcohol, ácido málico, flavonoides, etc.) 
 "y" contiene la clase del vino (0, 1 o 2, que corresponden a 3 tipos de vino). 
 
+<img width="582" height="64" alt="image" src="https://github.com/user-attachments/assets/e13849aa-d59f-48de-9b91-0869ad54be2d" />
+
+
+
+
 
 
 
