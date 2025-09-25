@@ -6,7 +6,7 @@ Intalamos las librerias necesarias para la practica
 
 <img width="675" height="142" alt="image" src="https://github.com/user-attachments/assets/57c0a391-650b-4ae1-9e48-ec76ab9c55b6" />
 
-<ul>Importamos las librerias al proyecto estas librerías permiten: </li>
+<ul> ### Importamos las librerias al proyecto estas librerías permiten: </li>
  <li> -load_wine → cargar la base de datos del vino. </li>
  <li>-DecisionTreeClassifier → crear el clasificador basado en reglas. </li>
  <li> -export_text → visualizar las reglas aprendidas. </li>
