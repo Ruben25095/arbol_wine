@@ -40,6 +40,40 @@ Intalamos las librerias necesarias para la practica
 
 <img width="536" height="61" alt="image" src="https://github.com/user-attachments/assets/88ce8626-4b25-4f0a-98ad-3a2d0c33c36b" />
 
+### Exportar y visualizar las reglas simbólicas
+
+<img width="635" height="93" alt="image" src="https://github.com/user-attachments/assets/357f8530-cf4f-49ac-834d-043e05de563a" />
+
+
+### Resultado
+<img width="783" height="292" alt="image" src="https://github.com/user-attachments/assets/8c5726ad-1b51-4dd0-a342-1d232578d8ed" />
+
+
+## Actividades
+### Cambia el parámetro max_depth de DecisionTreeClassifier y observa cómo cambian las reglas del árbol.
+
+ <img width="728" height="230" alt="image" src="https://github.com/user-attachments/assets/de680145-bf95-47dd-96ce-5b0db3d6aa87" />
+
+
+### Prueba a entrenar el modelo sin limitar la profundidad (max_depth=None). ¿Qué notas en las reglas?
+
+
+<img width="785" height="526" alt="image" src="https://github.com/user-attachments/assets/fb813166-240e-4696-9117-93076aa3d858" />
+
+
+### Evalúa la precisión del modelo en los datos de prueba:
+print("Precisión en datos de prueba:", tree.score(X_test, y_test))
+Cuales son tus opiniones de los resultados.
+
+<img width="727" height="104" alt="image" src="https://github.com/user-attachments/assets/739f39c5-2bce-4bc7-b01f-bad75811e976" />
+
+<img width="727" height="104" alt="image" src="https://github.com/user-attachments/assets/9dc85d00-ac4a-442b-9348-1b3d1bce7384" />
+
+<img width="729" height="113" alt="image" src="https://github.com/user-attachments/assets/0c11997d-d959-45e4-8169-f534b4c2bd67" />
+
+
+
+
 
 
 
